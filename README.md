@@ -5,7 +5,7 @@ Sensor driver for LPS22CH sensor written in C programming language. This reposit
 In order to `clone` the complete content of the repository folder, use the command:
 
 ```
-git clone https://github.com/STMicroelectronics/LPS22CH/
+git clone https://github.com/STMicroelectronics/LPS22CH-PID/
 ```
 
 Some examples of driver usage can be found [here](https://github.com/STMicroelectronics/STMems_Standard_C_drivers).
